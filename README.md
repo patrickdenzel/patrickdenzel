@@ -26,25 +26,25 @@ I'm currently studying Information Technology.
 # 📊 GitHub Stats
 
 <div style="text-align:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=patrickdenzel&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickdenzel&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
 </div>
 <div style="text-align:center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickdenzel&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickdenzel&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
 </div>
 <div style="text-align:center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdenzel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdenzel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div style="text-align:center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=patrickdenzel&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=patrickdenzel&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="400" />
 </div>
 
 ### 😂 Random Dev Meme
 
 <div style="text-align:center;">
-  <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="height: 400px;" />
+  <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="height: 400px; width: 400px;" />
 </div>
 
 ---
