@@ -38,7 +38,7 @@ I'm currently studying Information Technology.
 ## 🏆 GitHub Trophies
 
 <div style="text-align:center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=patrickdenzel&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=patrickdenzel&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="600" />
 </div>
 
 ### 😂 Random Dev Meme
