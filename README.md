@@ -25,17 +25,27 @@ I'm currently studying Information Technology.
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrickdenzel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrickdenzel&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdenzel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="text-align:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickdenzel&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+<div style="text-align:center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickdenzel&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+<div style="text-align:center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickdenzel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=patrickdenzel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div style="text-align:center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=patrickdenzel&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ### 😂 Random Dev Meme
 
-![Random Dev Meme](https://randommeme-five.vercel.app/)
+<div style="text-align:center;">
+  <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="height: 400px;" />
+</div>
 
 ---
 
