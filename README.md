@@ -4,7 +4,7 @@ I'm currently studying Information Technology.
 
 💬 Ask me about anything.
 
-⚡ Fun factt about me: I get sleepy every hour.
+⚡ Fun fact about me: I get sleepy every hour.
 
 📫 How to reach me: pdenzelacuna@gmail.com
 
